@@ -1,5 +1,6 @@
 package Labs;
 
+
 public class Kill2 {
 	
 	public static void main(String[] args) {
@@ -10,7 +11,7 @@ public class Kill2 {
 			System.exit(0);
 			
 		}
-		remove2nd(args[0]);
+		System.out.println(remove2nd(args[0]));
 	}
 	
 	
